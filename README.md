@@ -1,4 +1,4 @@
-# References for Machine Learning
+# Textbooks on Machine Learning, especially in Finance
 
 Dixon, M. F., Halperin, I., & Bilokon, P. (2020). Machine learning in Finance: From Theory to Practice. Berlin and Heidelberg: Springer International Publishing.
 
