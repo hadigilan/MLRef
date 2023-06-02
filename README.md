@@ -1,5 +1,7 @@
 # Textbooks on Machine Learning, especially in Finance
 
+Ahmed, S. E., Ahmed, F., & Yüzbaşı, B. (2023). Post-Shrinkage Strategies in Statistical and Machine Learning for High Dimensional Data. CRC Press.
+
 Dixon, M. F., Halperin, I., & Bilokon, P. (2020). Machine learning in Finance: From Theory to Practice. Berlin and Heidelberg: Springer International Publishing.
 
 Fan, J., Li, R., Zhang, C. H., & Zou, H. (2020). Statistical foundations of data science. CRC press.
