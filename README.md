@@ -11,3 +11,5 @@ Hastie, T., Tibshirani, R., & Wainwright, M. (2015). Statistical learning with s
 Zhou, Z. H. (2012). Ensemble methods: foundations and algorithms. CRC press.
 
 Rebala, G., Ravi, A., & Churiwala, S. (2019). An introduction to machine learning. Springer.
+
+Saleh, A. M. E., Arashi, M., Saleh, R. A., & Norouzirad, M. (2022). Rank-based methods for shrinkage and selection: With application to machine learning. John Wiley & Sons.
