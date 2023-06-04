@@ -8,7 +8,7 @@ Dixon, M. F., Halperin, I., & Bilokon, P. (2020). Machine learning in Finance: F
 
 Fan, J., Li, R., Zhang, C. H., & Zou, H. (2020). Statistical foundations of data science. CRC press.
 
-Giraud, C. (2021). Introduction to high-dimensional statistics. CRC Press.  [_Oracle_ concept in Section 2.2.1]
+Giraud, C. (2021). Introduction to high-dimensional statistics. CRC Press. <br>  [_Oracle_ concept in Section 2.2.1]
 
 Hastie, T., Tibshirani, R., & Wainwright, M. (2015). Statistical learning with sparsity: the lasso and generalizations. CRC press.
 
