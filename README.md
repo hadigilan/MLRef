@@ -4,6 +4,8 @@ Ahmed, S. E., Ahmed, F., & Yüzbaşı, B. (2023). Post-Shrinkage Strategies in S
 
 Aldridge, I., & Avellaneda, M. (2021). Big data science in finance. John Wiley & Sons.
 
+Brownlee, J. (2019). Probability for machine learning: Discover how to harness uncertainty with Python. Machine Learning Mastery.
+
 Bruce, P., Bruce, A., & Gedeck, P. (2020). Practical statistics for data scientists: 50+ essential concepts using R and Python. O'Reilly Media.
 
 Dixon, M. F., Halperin, I., & Bilokon, P. (2020). Machine learning in Finance: From Theory to Practice. Berlin and Heidelberg: Springer International Publishing.
