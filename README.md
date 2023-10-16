@@ -29,6 +29,9 @@ Rebala, G., Ravi, A., & Churiwala, S. (2019). An introduction to machine learnin
 
 Saleh, A. M. E., Arashi, M., Saleh, R. A., & Norouzirad, M. (2022). Rank-based methods for shrinkage and selection: With application to machine learning. John Wiley & Sons.
 
+Stock, J. H., & Watson, M. W. (2020). Introduction to econometrics, Fourth Ed. Pearson Education Limited.
+<br> [_LASSO and big data_ in Chapter 14]
+
 Tatsat, H., Puri, S., & Lookabaugh, B. (2020). Machine Learning and Data Science Blueprints for Finance. O'Reilly Media.
 
 Zhou, Z. H. (2012). Ensemble methods: foundations and algorithms. CRC press.
