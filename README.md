@@ -19,7 +19,7 @@ Hastie, T., Tibshirani, R., & Wainwright, M. (2015). Statistical learning with s
 
 Huber, M. (2023). Causal analysis: Impact evaluation and Causal Machine Learning with applications in R. MIT Press.
 
-James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (Vol. 112, p. 18). New York: Springer.
+James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning. New York: Springer.
 
 James, G., Witten, D., Hastie, T., & Tibshirani, R., Taylor, J. (2023). An introduction to statistical learning with applications in Python, Springer.
 
