@@ -10,6 +10,8 @@ Brownlee, J. (2019). Probability for machine learning: Discover how to harness u
 
 Bruce, P., Bruce, A., & Gedeck, P. (2020). Practical statistics for data scientists: 50+ essential concepts using R and Python. O'Reilly Media.
 
+Bühlmann, P., & Van De Geer, S. (2011). Statistics for high-dimensional data: methods, theory and applications. Springer Science & Business Media.
+
 Dixon, M. F., Halperin, I., & Bilokon, P. (2020). Machine learning in Finance: From Theory to Practice. Berlin and Heidelberg: Springer International Publishing.
 
 Fan, J., Li, R., Zhang, C. H., & Zou, H. (2020). Statistical foundations of data science. CRC press.
