@@ -29,6 +29,9 @@ James, G., Witten, D., Hastie, T., & Tibshirani, R., Taylor, J. (2023). An intro
 
 Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists. " O'Reilly Media, Inc.". 
 
+Murphy, K. P. (2022). Probabilistic machine learning: an introduction. MIT press.
+<br>  [_Connection between Ridge and PCA]
+
 Rebala, G., Ravi, A., & Churiwala, S. (2019). An introduction to machine learning. Springer.
 
 Saleh, A. M. E., Arashi, M., Saleh, R. A., & Norouzirad, M. (2022). Rank-based methods for shrinkage and selection: With application to machine learning. John Wiley & Sons.
