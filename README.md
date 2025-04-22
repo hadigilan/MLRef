@@ -12,6 +12,8 @@ Bruce, P., Bruce, A., & Gedeck, P. (2020). Practical statistics for data scienti
 
 Bühlmann, P., & Van De Geer, S. (2011). Statistics for high-dimensional data: methods, theory and applications. Springer Science & Business Media.
 
+Chen, J. T., Lee, C., & Chen, L. Y. (2024). Statistical prediction and machine learning. CRC Press.
+
 Consoli, S., Reforgiato Recupero, D., & Saisana, M. (2021). Data science for economics and finance: Methodologies and applications (p. 355). Springer Nature.
 
 Dixon, M. F., Halperin, I., & Bilokon, P. (2020). Machine learning in Finance: From Theory to Practice. Berlin and Heidelberg: Springer International Publishing.
