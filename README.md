@@ -31,6 +31,8 @@ James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to s
 
 James, G., Witten, D., Hastie, T., & Tibshirani, R., Taylor, J. (2023). An introduction to statistical learning with applications in Python, Springer.
 
+Li, S., and Chu, C. (2023). Machine Learning for Causal Inference, Springer.
+
 Müller, A. C., & Guido, S. (2016). Introduction to machine learning with Python: a guide for data scientists. " O'Reilly Media, Inc.". 
 
 Murphy, K. P. (2022). Probabilistic machine learning: an introduction. MIT press.
@@ -40,12 +42,12 @@ Rebala, G., Ravi, A., & Churiwala, S. (2019). An introduction to machine learnin
 
 Saleh, A. M. E., Arashi, M., Saleh, R. A., & Norouzirad, M. (2022). Rank-based methods for shrinkage and selection: With application to machine learning. John Wiley & Sons.
 
-Li, S., and Chu, C. (2023). Machine Learning for Causal Inference, Springer.
-
 Stock, J. H., & Watson, M. W. (2020). Introduction to econometrics, Fourth Ed. Pearson Education Limited.
 <br> [_LASSO and big data_ in Chapter 14]
 
 Tatsat, H., Puri, S., & Lookabaugh, B. (2020). Machine Learning and Data Science Blueprints for Finance. O'Reilly Media.
+
+Unpingco, J. (2016). Python for probability, statistics, and machine learning (Vol. 1). Cham, Switzerland: Springer International Publishing.
 
 Zhou, Z. H. (2012). Ensemble methods: foundations and algorithms. CRC press.
 
